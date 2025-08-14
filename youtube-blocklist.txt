@@ -1,0 +1,17 @@
+||youtube.com/get_midroll_info^
+||youtube.com/api/stats/ads^
+||youtube.com/pagead^
+||googleads.g.doubleclick.net^
+||youtubei.googleapis.com/youtubei/v1/player/ads^
+||youtube.com/ptracking^
+||youtube.com/api/stats/qoe^
+||youtube.com/api/stats/watchtime^
+||youtube.com/pagead/lvz^
+||youtube.com/pagead/adview^
+||youtube.com/pcs/activeview^
+||youtube.com/ad_data^
+||youtube.com/ads^
+||youtube.com/yva_video^
+||youtube.com/api/stats^
+||youtube.com/subscribe^
+||youtube.com/annotations_module^
