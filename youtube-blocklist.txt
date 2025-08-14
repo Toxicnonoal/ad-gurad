@@ -15,3 +15,10 @@
 ||youtube.com/api/stats^
 ||youtube.com/subscribe^
 ||youtube.com/annotations_module^
+||youtube.com/get_video_info?*adformat=*
+||youtube.com/api/stats/ads*
+||youtube.com/pagead/*
+||youtube.com/ptracking*
+||youtube.com/youtubei/v1/player/ads*
+||doubleclick.net^
+||googleads.g.doubleclick.net^
